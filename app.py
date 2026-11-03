@@ -8,7 +8,7 @@ import streamlit as st
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DB_PATH = BASE_DIR / "agrimitra.db"
-SAMPLE_CSV = DATA_DIR / "sample_prices.csv"
+SAMPLE_CSV = BASE_DIR / "sample prices.csv"
 
 st.set_page_config(page_title="AgriMitra | Farmer Market Price Assistant",
                    page_icon="🌾", layout="wide")
