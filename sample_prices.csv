@@ -1,0 +1,16 @@
+State,District,Market,Commodity,Variety,Date,Minimum Price,Maximum Price,Modal Price,Unit,Source,Data_Status
+Andhra Pradesh,Chittoor,Kalikiri,Tomato,Hybrid,2026-10-25,1800,2600,2200,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Hybrid,2026-10-25,1900,2750,2350,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Annamayya,Punganur,Tomato,Hybrid,2026-10-25,1700,2500,2100,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Chittoor,Kalikiri,Groundnut,Local,2026-10-24,5200,6400,5800,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Anantapur,Anantapur,Groundnut,Local,2026-10-24,5400,6600,6100,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Kurnool,Adoni,Cotton,FAQ,2026-10-23,6500,7200,6900,Quintal,Illustrative sample dataset,Sample
+Telangana,Warangal,Warangal,Cotton,FAQ,2026-10-23,6600,7350,7000,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Guntur,Guntur,Chilli,Dry,2026-10-22,9000,14500,12000,Quintal,Illustrative sample dataset,Sample
+Telangana,Nizamabad,Nizamabad,Maize,Yellow,2026-10-22,1900,2300,2100,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,West Godavari,Tadepalligudem,Paddy,Common,2026-10-21,2100,2450,2300,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Kurnool,Kurnool,Onion,Red,2026-10-21,1600,2800,2200,Quintal,Illustrative sample dataset,Sample
+Karnataka,Kolar,Kolar,Tomato,Hybrid,2026-10-25,2000,2900,2500,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Chittoor,Madanapalle,Tomato,Hybrid,2026-10-18,1500,2400,2000,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Chittoor,Kalikiri,Tomato,Hybrid,2026-10-18,1600,2450,2050,Quintal,Illustrative sample dataset,Sample
+Andhra Pradesh,Anantapur,Anantapur,Groundnut,Local,2026-10-17,5100,6300,5700,Quintal,Illustrative sample dataset,Sample
